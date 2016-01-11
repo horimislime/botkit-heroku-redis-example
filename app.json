@@ -5,8 +5,7 @@
     "repository": "https://github.com/horimislime/botkit-heroku-redis-example",
     "env": {
         "SLACK_TOKEN": {
-            "description": "Slack bot token",
-            "generator": "secret"
+            "description": "Slack bot token"
         }
     },
     "addons": [
