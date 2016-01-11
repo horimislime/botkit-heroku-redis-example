@@ -15,6 +15,3 @@ user's mention will be stored on RedisCloud.
 
 <img width="310" alt="demo" src="https://cloud.githubusercontent.com/assets/264370/12226787/c34bded6-b864-11e5-8123-43141b85cd78.png">
 
-## Tips
-If you use Heroku's free dyno, use Heroku Scheduler to keep the bot alive.
-![image](https://cloud.githubusercontent.com/assets/264370/12226796/f7e87604-b864-11e5-9b1f-d0296590ce98.png)
